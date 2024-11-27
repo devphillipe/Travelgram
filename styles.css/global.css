@@ -1,3 +1,4 @@
+    /* Reset */
 * {
     margin: 0;
     padding: 0;
@@ -17,4 +18,18 @@
     /* Text*/
     --text-color-primary: #313131;
     --text-color-secondary: #6C6C6C;
-} 
+
+    /* Typograph */
+    --font-family: 'Poppins', san-serif;
+    --h1: bold 32px/125% var(--font-family);
+    --text-nav: 16px/150% var(--font-family);
+    --text-footer: 14/150% var(--font-family);
+    --paragraph-md: 14px/170% var(--font-family);
+    --paragraph-sm: 12px/170% var(--font-family);
+}
+
+body {
+    background-color: var(--skeleton-color);
+    color: var(--text-color-secondary);
+    font-family: var(--paragraph-md);
+}
