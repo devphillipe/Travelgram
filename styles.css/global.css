@@ -25,8 +25,14 @@ header nav ul img {
 header nav ul li a {
     font: var(--text-nav);
     color: var(--text-color-secondary);
-
+    transition: color 0.3s ease;
+    
 }
+
+header nav ul li a:hover {
+    color: var(--brand-color);
+}
+
 .nav-img-profile {
     width: 2.5rem;
     height: 2.5rem;
@@ -67,9 +73,9 @@ header nav ul li a {
     width: 24rem;
  }
  .text h1 {
-     margin-bottom: 0.5rem;
-     font: var(--h1);
-     color: var(--text-color-primary);
+    margin-bottom: 0.5rem;
+    font: var(--h1);
+    color: var(--text-color-primary);
  }
  
  .info {
@@ -129,4 +135,9 @@ footer {
 .termos a {
     font: var(--text-footer);
     color: inherit;
+    transition: color 0.3s ease;
+}
+
+.termos a:hover {
+    color: var(--brand-color);
 }
