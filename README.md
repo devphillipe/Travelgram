@@ -50,8 +50,3 @@ Para visualizar o projeto, você precisa de:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/devphillipe/TravelGram.git
----
-## Link do Projeto Finalizado
-[Projeto Finalizado](https://travelgram-iota.vercel.app/)
-> **Dica:** Para abrir o link em uma nova guia, clique com o botão direito e selecione "Abrir link em uma nova guia" ou pressione `Ctrl` (ou `Cmd` no Mac) ao clicar.
-
