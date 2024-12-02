@@ -16,7 +16,7 @@ Uma página no estilo Instagram que exibe imagens de locais viajados. O objetivo
 
 ## 📜 Sobre o projeto
 
-O **TravelGram** é um projeto web inspirado no Instagram, criado para praticar e explorar conceitos de layout responsivo com **display flex** e **grid layout**. Ele apresenta imagens de destinos de viagens organizadas de forma estética e funcional.
+O **TravelGram** é um projeto web inspirado no Instagram, criado para praticar e explorar conceitos de layout responsivo com **display flex**. Ele apresenta imagens de destinos de viagens organizadas de forma estética e funcional.
 
 ---
 
@@ -54,4 +54,4 @@ Para visualizar o projeto, você precisa de:
 ## Link do Projeto Finalizado
 [Projeto Finalizado](https://travelgram-iota.vercel.app/)
 > **Dica:** Para abrir o link em uma nova guia, clique com o botão direito e selecione "Abrir link em uma nova guia" ou pressione `Ctrl` (ou `Cmd` no Mac) ao clicar.
----
+
